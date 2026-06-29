@@ -1,19 +1,24 @@
 # Hi, I'm Hadia Awan 👋
 
-🎓 BS Computer Science Student at FAST-NUCES
+🎓 BS Computer Science Student at FAST-NUCES, Faisalabad
 
-🌱 Currently Learning:
+💡 Passionate about Machine Learning, Artificial Intelligence, and Data Science.
+
+🌱 Currently Learning
 - Python
 - Machine Learning
-- Artificial Intelligence
 - Data Analysis
+- SQL
 
-💻 Languages:
+💻 Skills
 - Python
 - C++
 - SQL
+- Object-Oriented Programming
+- Data Structures
 
-🎯 Career Goal:
-To become a Machine Learning Engineer and build AI solutions that solve real-world problems.
+🎯 Goal
+To become a Machine Learning Engineer by building practical projects and continuously improving my skills.
 
 📫 Connect with me on LinkedIn.
+https://www.linkedin.com/in/hadia-awan-331339326/
