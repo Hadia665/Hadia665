@@ -16,6 +16,7 @@
 - SQL
 - Object-Oriented Programming
 - Data Structures
+- Database Management System (DBMS)
 
 🎯 Goal
 To become a Machine Learning Engineer by building practical projects and continuously improving my skills.
