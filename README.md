@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hadia Awan 👋
 
-<!--
-**Hadia665/Hadia665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student at FAST-NUCES
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Languages:
+- Python
+- C++
+- SQL
+
+🎯 Career Goal:
+To become a Machine Learning Engineer and build AI solutions that solve real-world problems.
+
+📫 Connect with me on LinkedIn.
